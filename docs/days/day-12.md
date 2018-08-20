@@ -433,3 +433,5 @@ Main page is available here: [Symfony 4.1 Jobeet Tutorial](../index.md)
 [1]: https://en.wikipedia.org/wiki/Long_tail
 [2]: https://symfony.com/doc/1.5/bundles/FOSRestBundle/index.html
 [3]: https://github.com/schmittjoh/JMSSerializerBundle
+[4]: http://127.0.0.1/api/v1/sensio_labs/jobs
+[5]: https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa
